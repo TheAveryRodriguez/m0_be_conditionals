@@ -60,20 +60,24 @@ puts number_students <= 21
 
 puts 4 < 9
 #YOU DO: Explain.
+#It is asking if 4 is less than 9. It will print true.
 
 books = 3
 puts 4 < books
 # YOU DO: Explain.
+#The varible books is assigned 3. It then asks if 4 is greater than the value of books (3). It will then print false.
 
 friends = 6
 siblings = 2
 puts friends > siblings
 # YOU DO: Explain.
+# The friends variable is assigned 6. The siblings variable is assigned 2. It is asking if friends is greater than siblings. It will print true. Friends = 6, siblings = 2. 6 > 2. True.
 
 attendees = 9
 meals = 8
 puts attendees != meals
 # YOU DO: Explain.
+#Attendees variable is assigned 9. Meals is assigned 8. It is asking if attendees are NOT equal to meals. It will print true. 9 does not equal 8.
 
 
 #-------------------
